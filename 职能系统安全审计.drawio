@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T02:38:38.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jRGqUgf5c09oftpurev-" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T07:23:04.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="E03m6I_o29iroDTa-lBy" version="21.3.0" type="github" pages="2">
   <diagram name="第 1 页" id="p1AmGerFl660IjU1WCmY">
     <mxGraphModel dx="1000" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -108,6 +108,71 @@
             <mxPoint x="250" y="410" as="sourcePoint" />
             <mxPoint x="360" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sSIWdw-JhjHYmdT3uD6_" name="第 2 页">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LR66cN5LQrxim0iGwPEN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-2" target="LR66cN5LQrxim0iGwPEN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-2" value="环境安全分析" style="strokeWidth=1.5;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-4" target="LR66cN5LQrxim0iGwPEN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-4" target="LR66cN5LQrxim0iGwPEN-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-4" target="LR66cN5LQrxim0iGwPEN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-4" value="T+1获取用户前一天的下载信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6GPEsZz29tg0Nf7mHSA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-6" target="m6GPEsZz29tg0Nf7mHSA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-6" value="用户下载时间安全分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-11" target="LR66cN5LQrxim0iGwPEN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-11" target="LR66cN5LQrxim0iGwPEN-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-11" target="LR66cN5LQrxim0iGwPEN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-11" value="当前用户下载基线画像" style="strokeWidth=1.5;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6GPEsZz29tg0Nf7mHSA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-34" target="m6GPEsZz29tg0Nf7mHSA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-34" value="用户下载地点安全分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6GPEsZz29tg0Nf7mHSA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;" edge="1" parent="1" source="LR66cN5LQrxim0iGwPEN-35" target="m6GPEsZz29tg0Nf7mHSA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR66cN5LQrxim0iGwPEN-35" value="用户下载网络安全分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6GPEsZz29tg0Nf7mHSA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1" source="m6GPEsZz29tg0Nf7mHSA-1" target="m6GPEsZz29tg0Nf7mHSA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6GPEsZz29tg0Nf7mHSA-1" value="分析结果输出至动态风险评估模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6GPEsZz29tg0Nf7mHSA-5" value="结束" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
