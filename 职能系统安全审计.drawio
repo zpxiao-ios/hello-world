@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T02:04:43.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.1.6" etag="hpecZpI8Et_mAHUkjr-T" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T02:17:41.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Klm0DPnhfqfrB1v4utlX" version="21.3.0" type="github">
   <diagram name="第 1 页" id="p1AmGerFl660IjU1WCmY">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-1" value="用户下载行为分析" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Psn4pFb16nn2F3GhUzvy-3" target="Psn4pFb16nn2F3GhUzvy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-3" value="T+1获取用户前一天的下载信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-4" value="当前用户下载次数基线画像" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Psn4pFb16nn2F3GhUzvy-9" target="Psn4pFb16nn2F3GhUzvy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-9" value="分析用户前一天的下载次数在基线画像中的概率密度pd" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="335" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Psn4pFb16nn2F3GhUzvy-10" target="Psn4pFb16nn2F3GhUzvy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-10" value="pd&amp;lt;=20?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Psn4pFb16nn2F3GhUzvy-13" target="Psn4pFb16nn2F3GhUzvy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-13" value="当前用户下载次数基线画像" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="295" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Psn4pFb16nn2F3GhUzvy-16" target="Psn4pFb16nn2F3GhUzvy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-16" value="当前用户同组下载基线画像" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Psn4pFb16nn2F3GhUzvy-17" target="Psn4pFb16nn2F3GhUzvy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-17" value="分析用户前一天的下载次数在同组基线画像中的概率密度pd" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Psn4pFb16nn2F3GhUzvy-18" target="Psn4pFb16nn2F3GhUzvy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-18" value="pd&amp;lt;=25?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="335" y="630" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-25" value="结束" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="335" y="900" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Psn4pFb16nn2F3GhUzvy-30" target="Psn4pFb16nn2F3GhUzvy-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Psn4pFb16nn2F3GhUzvy-30" value="分析结果输出至动态风险评估模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="335" y="810" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
