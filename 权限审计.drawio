@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T06:43:45.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GS4ccicxFUQstrmAYd_x" version="22.1.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:27:10.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t2A2kSgk6C94YEI8mC5x" version="22.1.21" type="github" pages="7">
   <diagram name="Page-1" id="_wjpSSjuMNR0HVLs08sE">
     <mxGraphModel dx="1050" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -929,10 +929,80 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hHg4_Tz0CaNOqFCnid1u" name="第 7 页">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_O9ciwg9VjC8wTVQYa2-1" target="2_O9ciwg9VjC8wTVQYa2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-9" value="岗位异动消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2_O9ciwg9VjC8wTVQYa2-8">
+          <mxGeometry x="-0.2089" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;UC/人事&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2_O9ciwg9VjC8wTVQYa2-3" target="2_O9ciwg9VjC8wTVQYa2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;权限管控平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_O9ciwg9VjC8wTVQYa2-6" target="2_O9ciwg9VjC8wTVQYa2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;获取转岗员工权限&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="630" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_O9ciwg9VjC8wTVQYa2-7" target="2_O9ciwg9VjC8wTVQYa2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;转岗工单处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;转岗权限回收&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="920" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-20" value="跨序列转岗为经纪人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_O9ciwg9VjC8wTVQYa2-23" target="2_O9ciwg9VjC8wTVQYa2-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-22" value="兼岗结束消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2_O9ciwg9VjC8wTVQYa2-21">
+          <mxGeometry x="-0.2089" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;UC/人事&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="674" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2_O9ciwg9VjC8wTVQYa2-25" target="2_O9ciwg9VjC8wTVQYa2-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;权限管控平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="674" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_O9ciwg9VjC8wTVQYa2-27" target="2_O9ciwg9VjC8wTVQYa2-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;获取兼岗期间新增权限&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="630" y="674" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_O9ciwg9VjC8wTVQYa2-29" target="2_O9ciwg9VjC8wTVQYa2-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;兼岗工单处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="674" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;兼岗权限回收&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="920" y="674" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_O9ciwg9VjC8wTVQYa2-31" value="兼岗结束时间-开始时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468" y="666" width="142" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
