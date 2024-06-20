@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T07:44:15.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="C5hV94A31wQItT7Umozj" version="24.5.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-20T07:44:26.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rd75iii2ljeIrDjJobRT" version="24.5.4" type="github" pages="11">
   <diagram name="Page-1" id="_wjpSSjuMNR0HVLs08sE">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1058,28 +1058,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="32OzsUaL9t1QMkp-09yO-5" value="离职人员权限风险" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFD966;flipV=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="323" y="140" width="137" height="35" as="geometry" />
+          <mxGeometry x="323" y="158" width="137" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KH0oIXQtA3O8GdO67o26-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="32OzsUaL9t1QMkp-09yO-6" target="32OzsUaL9t1QMkp-09yO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="32OzsUaL9t1QMkp-09yO-6" value="转岗人员权限风险" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFD966;flipV=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="323" y="212.5" width="137" height="35" as="geometry" />
+          <mxGeometry x="323" y="207" width="137" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KH0oIXQtA3O8GdO67o26-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="32OzsUaL9t1QMkp-09yO-7" target="32OzsUaL9t1QMkp-09yO-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="32OzsUaL9t1QMkp-09yO-7" value="冗余权限风险" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFD966;flipV=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="323" y="280" width="137" height="35" as="geometry" />
+          <mxGeometry x="323" y="256" width="137" height="35" as="geometry" />
         </mxCell>
         <mxCell id="32OzsUaL9t1QMkp-09yO-9" value="预离职导出敏感数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;fontColor=#1A1A1A;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="515" y="135.75" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="32OzsUaL9t1QMkp-09yO-10" value="离职重入职权限滥用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;fontColor=#1A1A1A;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="515" y="170.75" width="150" height="30" as="geometry" />
+          <mxGeometry x="515" y="185" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="32OzsUaL9t1QMkp-09yO-11" value="权限职责未分离" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;fontColor=#1A1A1A;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="515" y="215" width="120" height="30" as="geometry" />
+          <mxGeometry x="515" y="234" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="32OzsUaL9t1QMkp-09yO-12" value="未授权访问下载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;fontColor=#1A1A1A;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="515" y="282.5" width="120" height="30" as="geometry" />
