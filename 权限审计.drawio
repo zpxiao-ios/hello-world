@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T10:33:48.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="r1j1FRFTtNyMv6Q9q6fm" version="24.4.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-06-20T04:52:10.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0QDgl1xxVuffTVtlcPi0" version="24.5.4" type="github" pages="10">
   <diagram name="Page-1" id="_wjpSSjuMNR0HVLs08sE">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1426,6 +1426,173 @@
             <mxPoint x="432" y="1408" as="sourcePoint" />
             <mxPoint x="532" y="1308" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e2wiRXotLzz_Vb86oTqC" name="管控平台">
+    <mxGraphModel dx="1113" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-43" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="185.5" y="822.5" width="630" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-44" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="183.5" y="742" width="630" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-45" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;权限类别&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontFamily=Tahoma;textShadow=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="66.5" y="754.5" width="114" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-46" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;审计概述&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontFamily=Tahoma;textShadow=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="882.5" width="114" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-47" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;权限四大原则&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;rounded=1;shadow=0;fontFamily=Tahoma;textShadow=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="385" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;新权限（角色权限）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="754.5" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;堡垒机（主机权限）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="238.5" y="754.5" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;其他自建权限&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="626.5" y="754.5" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-51" value="" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=11;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="367.5" width="630" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-52" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;职责分离原则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="539" y="385" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-54" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;数据分类原则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="688" y="385" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-56" value="访问控制原则" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="389" y="385" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-57" value="权限最小原则" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="385" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="194" y="842.5" width="596.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-58" source="WdWHpl_m-7OKGCV_JPMX-60" target="WdWHpl_m-7OKGCV_JPMX-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-60" value="监听员工预离职" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-58">
+          <mxGeometry x="69.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-58" source="WdWHpl_m-7OKGCV_JPMX-62" target="WdWHpl_m-7OKGCV_JPMX-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-62" value="获取权限列表&lt;div&gt;生成工单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-58">
+          <mxGeometry x="211.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-58" source="WdWHpl_m-7OKGCV_JPMX-64" target="WdWHpl_m-7OKGCV_JPMX-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-64" value="推送消息提醒&lt;div&gt;上级可提前回收&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-58">
+          <mxGeometry x="354.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-65" value="人员已离职&lt;div&gt;自动回收全部权限&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-58">
+          <mxGeometry x="496.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-66" value="离职审计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-58">
+          <mxGeometry y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-67" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="194" y="892.5" width="596.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-67" source="WdWHpl_m-7OKGCV_JPMX-69" target="WdWHpl_m-7OKGCV_JPMX-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-69" value="监听员工转岗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-67">
+          <mxGeometry x="69.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-67" source="WdWHpl_m-7OKGCV_JPMX-71" target="WdWHpl_m-7OKGCV_JPMX-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-71" value="获取权限列表&lt;div&gt;生成工单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-67">
+          <mxGeometry x="211.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-67" source="WdWHpl_m-7OKGCV_JPMX-73" target="WdWHpl_m-7OKGCV_JPMX-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-73" value="推送消息提醒&lt;div&gt;转岗用户处理工单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-67">
+          <mxGeometry x="354.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-74" value="&lt;div&gt;推送消息提醒&lt;/div&gt;&lt;div&gt;转岗上级审核工单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-67">
+          <mxGeometry x="496.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-75" value="转岗审计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-67">
+          <mxGeometry y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="195.5" y="942.5" width="596.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-76" source="WdWHpl_m-7OKGCV_JPMX-78" target="WdWHpl_m-7OKGCV_JPMX-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-78" value="每月推送提醒&lt;div&gt;系统owner可处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-76">
+          <mxGeometry x="69.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-76" source="WdWHpl_m-7OKGCV_JPMX-80" target="WdWHpl_m-7OKGCV_JPMX-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-80" value="审计内容展示&lt;div&gt;长期不活跃的用户-权限&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-76">
+          <mxGeometry x="211.5" width="98.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WdWHpl_m-7OKGCV_JPMX-76" source="WdWHpl_m-7OKGCV_JPMX-82" target="WdWHpl_m-7OKGCV_JPMX-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-82" value="系统owner审阅&lt;div&gt;保留/回收&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-76">
+          <mxGeometry x="354.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-83" value="&lt;div&gt;审计月报推送&lt;/div&gt;&lt;div&gt;中心&amp;amp;&amp;amp;系统owner&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-76">
+          <mxGeometry x="496.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-84" value="冗余审计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WdWHpl_m-7OKGCV_JPMX-76">
+          <mxGeometry y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-85" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="183.5" y="652" width="630" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-86" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;方案参考&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontFamily=Tahoma;textShadow=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="664.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-87" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;新权限（角色权限）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="664.5" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;堡垒机（主机权限）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="238.5" y="664.5" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-89" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;其他自建权限&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="626.5" y="664.5" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WdWHpl_m-7OKGCV_JPMX-91" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;权限管控能力&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;rounded=1;shadow=0;fontFamily=Tahoma;textShadow=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="472.5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDwVaYIEw5NnDL0xed_z-1" value="" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=11;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="630" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="GDwVaYIEw5NnDL0xed_z-2" value="冗余审计" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="424.5" y="477.5" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GDwVaYIEw5NnDL0xed_z-3" value="风险概览" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="610.5" y="477.5" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GDwVaYIEw5NnDL0xed_z-4" value="申请审批" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="515.5" y="477.5" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GDwVaYIEw5NnDL0xed_z-5" value="查询感知" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="706.5" y="477.5" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GDwVaYIEw5NnDL0xed_z-6" value="转岗审计" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="477.5" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GDwVaYIEw5NnDL0xed_z-7" value="(预)离职审计" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="228.5" y="477.5" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
