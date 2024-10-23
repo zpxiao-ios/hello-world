@@ -1807,7 +1807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RHHdNDTW2CqpJvaU7Puc" name="离职审计">
-    <mxGraphModel dx="1509" dy="885" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2002,6 +2002,9 @@
             <mxGeometry x="200" y="1232" width="731.2" height="135" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="3cpiZBqD2FSAKr4tIc4p-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-1" target="3cpiZBqD2FSAKr4tIc4p-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-1" value="权限管控平台" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="135" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
@@ -2014,11 +2017,14 @@
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-5" value="清理结果同步" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="1024" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-29" value="各系统内离职人员权限清理回收现状" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
+        <mxCell id="3cpiZBqD2FSAKr4tIc4p-29" value="各系统内离职人员权限现状梳理" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="313" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-31" value="离职权限清理确认（系统owner）" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="668" y="1631" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3cpiZBqD2FSAKr4tIc4p-52" value="1、&lt;div&gt;2、&lt;/div&gt;&lt;div&gt;3、&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1761" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
