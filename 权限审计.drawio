@@ -2230,7 +2230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c4yzLkarrDX5t3BnYHil" name="第 13 页">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2279,8 +2279,8 @@
         <mxCell id="CIzxrHRCvzSDM5AFQVDK-15" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;④&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="796.5" y="1611" width="40" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="CIzxrHRCvzSDM5AFQVDK-16" value="1、存量清理：分中心确认并执行批量清理，邮件同步清理结果&lt;div&gt;2、增量覆盖：业务接入权限管控平台，自动清理新增离职人员权限&lt;/div&gt;&lt;div&gt;3、清理结果确认：抽查系统内离职权限现状，确认清理完成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="573" y="1723" width="365" height="60" as="geometry" />
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-16" value="1、存量清理：分中心确认并执行批量清理&lt;div&gt;2、结果同步：梳理清理结果并通过邮件方式同步&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="616" y="1723" width="269" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CIzxrHRCvzSDM5AFQVDK-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.461;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="CIzxrHRCvzSDM5AFQVDK-6" target="CIzxrHRCvzSDM5AFQVDK-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2309,6 +2309,19 @@
             <Array as="points">
               <mxPoint x="773" y="1690" />
               <mxPoint x="786" y="1696" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-20" value="&lt;div&gt;&lt;div&gt;1、增量覆盖：业务接入权限管控平台，自动清理新增离职人员权限&lt;/div&gt;&lt;div&gt;2、清理结果确认：抽查系统内离职权限现状，确认清理完成&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="803" y="1517" width="365" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.521;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.2;" edge="1" parent="1" source="CIzxrHRCvzSDM5AFQVDK-10" target="CIzxrHRCvzSDM5AFQVDK-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="893" y="1621" as="sourcePoint" />
+            <mxPoint x="943" y="1571" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="943" y="1621" />
+              <mxPoint x="893" y="1595" />
             </Array>
           </mxGeometry>
         </mxCell>
