@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.12" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="12">
   <diagram name="Page-1" id="_wjpSSjuMNR0HVLs08sE">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1807,7 +1807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RHHdNDTW2CqpJvaU7Puc" name="离职审计">
-    <mxGraphModel dx="1105" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2002,29 +2002,44 @@
             <mxGeometry x="200" y="1232" width="731.2" height="135" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-1" target="3cpiZBqD2FSAKr4tIc4p-29">
+        <mxCell id="3cpiZBqD2FSAKr4tIc4p-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3cpiZBqD2FSAKr4tIc4p-1" target="3cpiZBqD2FSAKr4tIc4p-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-1" value="权限管控平台" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
+        <mxCell id="3cpiZBqD2FSAKr4tIc4p-1" value="权限管控平台" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-3" value="联合接口人沟通治理计划和方案" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="491" y="1631" width="100" height="50" as="geometry" />
+        <mxCell id="1HAOxUopQULK6tJeG_uj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-4" target="1HAOxUopQULK6tJeG_uj-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-4" value="清理执行" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="846" y="1631" width="100" height="50" as="geometry" />
+        <mxCell id="3cpiZBqD2FSAKr4tIc4p-4" value="存量离职权限清理&amp;amp;同步" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" parent="1" vertex="1">
+          <mxGeometry x="675" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-5" value="清理结果同步" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="1024" y="1631" width="100" height="50" as="geometry" />
+        <mxCell id="1HAOxUopQULK6tJeG_uj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-29" target="1HAOxUopQULK6tJeG_uj-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-29" value="各系统内离职人员权限现状梳理" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="313" y="1631" width="100" height="50" as="geometry" />
+        <mxCell id="3cpiZBqD2FSAKr4tIc4p-29" value="离职人员权限现状梳理" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" parent="1" vertex="1">
+          <mxGeometry x="315" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-31" value="离职权限清理确认（系统owner）" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="668" y="1631" width="100" height="50" as="geometry" />
+        <mxCell id="3cpiZBqD2FSAKr4tIc4p-52" value="&lt;div&gt;相关方：内审团队、新权限&lt;/div&gt;&lt;div&gt;举措：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、风险梳理：合规处罚、数据泄露、安全事件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2、现状梳理：&lt;span style=&quot;background-color: initial;&quot;&gt;梳理内部系统离职权限清理现状&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="158" y="1722" width="267" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="3cpiZBqD2FSAKr4tIc4p-52" value="1、&lt;div&gt;2、&lt;/div&gt;&lt;div&gt;3、&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1761" width="120" height="60" as="geometry" />
+        <mxCell id="1HAOxUopQULK6tJeG_uj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HAOxUopQULK6tJeG_uj-1" target="3cpiZBqD2FSAKr4tIc4p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-1" value="治理方案沟通&amp;amp;&amp;amp;清理确认" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1631" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HAOxUopQULK6tJeG_uj-2" target="1HAOxUopQULK6tJeG_uj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-2" value="增量离职人员权限回收" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="1631" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-3" value="&lt;div&gt;相关方：各中心安全接口人、系统owner&lt;/div&gt;&lt;div&gt;举措：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、方案沟通：联合中心安全接口人对齐离职权限风险问题，沟通确认权限回收方案&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2、治理确认：系统owner确认进行离职权限回收&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="1722" width="267" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-7" value="离职权限治理完成" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
