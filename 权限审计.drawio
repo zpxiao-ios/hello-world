@@ -2265,7 +2265,7 @@
           <mxGeometry x="849" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CIzxrHRCvzSDM5AFQVDK-11" value="&lt;div&gt;相关方：中心安全接口人、系统owner&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、治理同步：治理需求、治理方案计划和离职权限风险&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、治理确认：系统owner确认可清理系统内离职权限&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="412" y="1517" width="321.5" height="60" as="geometry" />
+          <mxGeometry x="279" y="1521" width="321.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CIzxrHRCvzSDM5AFQVDK-12" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;①&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="303.5" y="1611" width="40" height="61" as="geometry" />
@@ -2312,8 +2312,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CIzxrHRCvzSDM5AFQVDK-20" value="&lt;div&gt;&lt;div&gt;1、增量覆盖：业务接入权限管控平台，自动清理新增离职人员权限&lt;/div&gt;&lt;div&gt;2、清理结果确认：抽查系统内离职权限现状，确认清理完成&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="803" y="1517" width="365" height="60" as="geometry" />
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-20" value="&lt;div&gt;&lt;div&gt;1、增量覆盖：业务接入权限管控平台支持离职权限回收&lt;/div&gt;&lt;div&gt;2、清理结果确认：抽查系统内离职权限现状，确认清理完成&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="646" y="1514" width="321" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CIzxrHRCvzSDM5AFQVDK-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.521;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.2;" edge="1" parent="1" source="CIzxrHRCvzSDM5AFQVDK-10" target="CIzxrHRCvzSDM5AFQVDK-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
