@@ -2012,34 +2012,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-4" value="存量离职权限清理&amp;amp;同步" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="675" y="1631" width="100" height="50" as="geometry" />
+          <mxGeometry x="628" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1HAOxUopQULK6tJeG_uj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-29" target="1HAOxUopQULK6tJeG_uj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-29" value="离职人员权限现状梳理" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="315" y="1631" width="100" height="50" as="geometry" />
+          <mxGeometry x="299" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-52" value="&lt;div&gt;相关方：内审团队、新权限&lt;/div&gt;&lt;div&gt;举措：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、风险梳理：合规处罚、数据泄露、安全事件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2、现状梳理：&lt;span style=&quot;background-color: initial;&quot;&gt;梳理内部系统离职权限清理现状&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="158" y="1722" width="267" height="77" as="geometry" />
+          <mxGeometry x="145" y="1702" width="267" height="77" as="geometry" />
         </mxCell>
         <mxCell id="1HAOxUopQULK6tJeG_uj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1HAOxUopQULK6tJeG_uj-1" target="3cpiZBqD2FSAKr4tIc4p-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1HAOxUopQULK6tJeG_uj-1" value="治理方案沟通&amp;amp;&amp;amp;清理确认" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1631" width="100" height="50" as="geometry" />
+          <mxGeometry x="463" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1HAOxUopQULK6tJeG_uj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1HAOxUopQULK6tJeG_uj-2" target="1HAOxUopQULK6tJeG_uj-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1HAOxUopQULK6tJeG_uj-2" value="增量离职人员权限回收" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="855" y="1631" width="100" height="50" as="geometry" />
+          <mxGeometry x="792" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1HAOxUopQULK6tJeG_uj-3" value="&lt;div&gt;相关方：各中心安全接口人、系统owner&lt;/div&gt;&lt;div&gt;举措：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、方案沟通：联合中心安全接口人对齐离职权限风险问题，沟通确认权限回收方案&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2、治理确认：系统owner确认进行离职权限回收&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="456.5" y="1722" width="267" height="77" as="geometry" />
+          <mxGeometry x="373" y="1518" width="267" height="77" as="geometry" />
         </mxCell>
         <mxCell id="1HAOxUopQULK6tJeG_uj-7" value="离职权限治理完成" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="1631" width="100" height="50" as="geometry" />
+          <mxGeometry x="956" y="1631" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;font-size:22.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;①&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;font-size:22.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1416" width="40" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;font-size:22.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;②&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;font-size:22.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="1433" width="40" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;font-size:22.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;③&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;font-size:22.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="742" y="1518" width="40" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="1HAOxUopQULK6tJeG_uj-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;font-size:22.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;④&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;font-size:22.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="874" y="1505" width="40" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
