@@ -2326,6 +2326,45 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="CIzxrHRCvzSDM5AFQVDK-24" target="CIzxrHRCvzSDM5AFQVDK-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-24" value="权限管控平台" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="169" y="1970" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="CIzxrHRCvzSDM5AFQVDK-26" target="CIzxrHRCvzSDM5AFQVDK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-26" value="存量离职权限清理&amp;amp;同步" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1970" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="CIzxrHRCvzSDM5AFQVDK-28" target="CIzxrHRCvzSDM5AFQVDK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-28" value="离职人员权限现状梳理" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="333" y="1970" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="CIzxrHRCvzSDM5AFQVDK-30" target="CIzxrHRCvzSDM5AFQVDK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-30" value="治理方案沟通&amp;amp;&amp;amp;清理确认" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="497" y="1970" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-31" value="增量离职人员权限回收" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="826" y="1970" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-32" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;①&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="1950" width="40" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-33" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;②&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="1950" width="40" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-34" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;③&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615.5" y="1950" width="40" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="CIzxrHRCvzSDM5AFQVDK-35" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;④&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="773.5" y="1950" width="40" height="61" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
