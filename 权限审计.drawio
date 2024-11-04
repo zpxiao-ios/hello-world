@@ -1807,7 +1807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RHHdNDTW2CqpJvaU7Puc" name="离职审计">
-    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1999,7 +1999,7 @@
         </mxCell>
         <UserObject label="&lt;div data-version=&quot;3.0.0&quot; data-hash=&quot;d41d8cd98f00b204e9800998ecf8427e&quot; style=&quot;color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;document&quot; style=&quot;color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p class=&quot;paragraph text-align-type-left&quot; style=&quot;margin: 3pt 0pt; text-align: left; font-family: 等线; font-size: 12pt; line-height: 1.3;&quot;&gt;&lt;span class=&quot;image-wrapper&quot; style=&quot;display: inline-block; overflow: hidden; transform: rotate(0deg); width: 604.733px; height: 113.254px; text-indent: 0px;&quot;&gt;&lt;img id=&quot;d9e41ec2&quot; src=&quot;https://wdcdn.qpic.cn/MTY4ODg1MzQxNTI1NDgyMw_565943_dgTuaytEeAkPeLaB_1724240324?w=1132&amp;amp;h=212&amp;amp;type=image/png&quot; width=&quot;604.733&quot; height=&quot;113.254&quot; style=&quot;margin-left: 0px; margin-top: 0px; width: 604.733px; height: 113.254px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" link="&lt;div data-version=&quot;3.0.0&quot; data-hash=&quot;d41d8cd98f00b204e9800998ecf8427e&quot; style=&quot;color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;document&quot; style=&quot;color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p class=&quot;paragraph text-align-type-left&quot; style=&quot;margin: 3pt 0pt; text-align: left; font-family: 等线; font-size: 12pt; line-height: 1.3;&quot;&gt;&lt;span class=&quot;image-wrapper&quot; style=&quot;display: inline-block; overflow: hidden; transform: rotate(0deg); width: 604.733px; height: 113.254px; text-indent: 0px;&quot;&gt;&lt;img id=&quot;d9e41ec2&quot; src=&quot;https://wdcdn.qpic.cn/MTY4ODg1MzQxNTI1NDgyMw_565943_dgTuaytEeAkPeLaB_1724240324?w=1132&amp;amp;h=212&amp;amp;type=image/png&quot; width=&quot;604.733&quot; height=&quot;113.254&quot; style=&quot;margin-left: 0px; margin-top: 0px; width: 604.733px; height: 113.254px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" id="_HKt57-QmE0ck0MwZuYg-1">
           <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="200" y="1232" width="731.2" height="135" as="geometry" />
+            <mxGeometry x="108" y="1081" width="731.2" height="135" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=1.5;" parent="1" source="3cpiZBqD2FSAKr4tIc4p-1" target="3cpiZBqD2FSAKr4tIc4p-29" edge="1">
@@ -2008,13 +2008,13 @@
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-1" value="权限管控平台" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="192" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-4" target="1HAOxUopQULK6tJeG_uj-2">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;" parent="1" source="3cpiZBqD2FSAKr4tIc4p-4" target="1HAOxUopQULK6tJeG_uj-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-4" value="存量离职权限清理&amp;amp;同步" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="685" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-29" target="1HAOxUopQULK6tJeG_uj-1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;" parent="1" source="3cpiZBqD2FSAKr4tIc4p-29" target="1HAOxUopQULK6tJeG_uj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-29" value="离职人员权限现状梳理" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;" parent="1" vertex="1">
@@ -2023,34 +2023,34 @@
         <mxCell id="3cpiZBqD2FSAKr4tIc4p-52" value="&lt;div&gt;相关方：内审团队、新权限&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、现状梳理：公司&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;内部系统离职权限清理现状&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、风险汇总：合规处罚、数据泄露、安全事件&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="1723" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;" edge="1" parent="1" source="1HAOxUopQULK6tJeG_uj-1" target="3cpiZBqD2FSAKr4tIc4p-4">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=1.5;" parent="1" source="1HAOxUopQULK6tJeG_uj-1" target="3cpiZBqD2FSAKr4tIc4p-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-1" value="治理方案沟通&amp;amp;&amp;amp;清理确认" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-1" value="治理方案沟通&amp;amp;&amp;amp;清理确认" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="520" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-2" value="增量离职人员权限回收" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-2" value="增量离职人员权限回收" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="849" y="1631" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-3" value="&lt;div&gt;相关方：中心安全接口人、系统owner&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、治理同步：治理需求、治理方案计划和离职权限风险&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、治理确认：系统owner确认可清理系统内离职权限&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-3" value="&lt;div&gt;相关方：中心安全接口人、系统owner&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、治理同步：治理需求、治理方案计划和离职权限风险&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、治理确认：系统owner确认可清理系统内离职权限&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="412" y="1517" width="321.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-9" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;①&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-9" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;①&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="303.5" y="1611" width="40" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-10" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;②&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-10" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;②&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="474.5" y="1611" width="40" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-11" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;③&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-11" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;③&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="638.5" y="1611" width="40" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-12" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;④&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-12" value="&lt;p style=&quot;font-size: 18px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;等线&quot;&gt;④&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 18px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;horizontal=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="796.5" y="1611" width="40" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-14" value="1、存量清理：分中心确认并执行批量清理，邮件同步清理结果&lt;div&gt;2、增量覆盖：业务接入权限管控平台，自动清理新增离职人员权限&lt;/div&gt;&lt;div&gt;3、清理结果确认：抽查系统内离职权限现状，确认清理完成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-14" value="1、存量清理：分中心确认并执行批量清理，邮件同步清理结果&lt;div&gt;2、增量覆盖：业务接入权限管控平台，自动清理新增离职人员权限&lt;/div&gt;&lt;div&gt;3、清理结果确认：抽查系统内离职权限现状，确认清理完成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="573" y="1723" width="365" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.461;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.2;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-29" target="3cpiZBqD2FSAKr4tIc4p-52">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.461;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.2;" parent="1" source="3cpiZBqD2FSAKr4tIc4p-29" target="3cpiZBqD2FSAKr4tIc4p-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="339" y="1724" as="sourcePoint" />
             <mxPoint x="389" y="1674" as="targetPoint" />
@@ -2060,7 +2060,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.554;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.2;" edge="1" parent="1" source="1HAOxUopQULK6tJeG_uj-1" target="1HAOxUopQULK6tJeG_uj-3">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.554;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.2;" parent="1" source="1HAOxUopQULK6tJeG_uj-1" target="1HAOxUopQULK6tJeG_uj-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="567" y="1623" as="sourcePoint" />
             <mxPoint x="617" y="1573" as="targetPoint" />
@@ -2070,7 +2070,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1HAOxUopQULK6tJeG_uj-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.2;" edge="1" parent="1" source="3cpiZBqD2FSAKr4tIc4p-4" target="1HAOxUopQULK6tJeG_uj-14">
+        <mxCell id="1HAOxUopQULK6tJeG_uj-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.2;" parent="1" source="3cpiZBqD2FSAKr4tIc4p-4" target="1HAOxUopQULK6tJeG_uj-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="1728" as="sourcePoint" />
             <mxPoint x="810" y="1678" as="targetPoint" />
@@ -2079,6 +2079,56 @@
               <mxPoint x="786" y="1696" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;strokeWidth=1.5;fontSize=14;" edge="1" parent="1" source="90_F330tsIY0Qzm9DFV0-2" target="90_F330tsIY0Qzm9DFV0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-2" value="项目id/名称" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=0;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="168" y="1931" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;strokeWidth=1.5;fontSize=14;" edge="1" parent="1" source="90_F330tsIY0Qzm9DFV0-4" target="90_F330tsIY0Qzm9DFV0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-4" value="存量离职权限清理&amp;amp;同步" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=0;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="661" y="1931" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;strokeWidth=1.5;fontSize=14;" edge="1" parent="1" source="90_F330tsIY0Qzm9DFV0-6" target="90_F330tsIY0Qzm9DFV0-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="1956" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-6" value="遍历判断项目下授权人员" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=0;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1931" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="90_F330tsIY0Qzm9DFV0-14" target="90_F330tsIY0Qzm9DFV0-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596" y="1956" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=0" vertex="1" connectable="0" parent="90_F330tsIY0Qzm9DFV0-7">
+          <mxGeometry x="-0.2263" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-9" value="清理结果输出" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=0;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="825" y="1931" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-13" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 14px;&quot;&gt;&lt;font face=&quot;等线&quot; style=&quot;font-size: 14px;&quot;&gt;④&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0;horizontal=1;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="772.5" y="1911" width="40" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontStyle=0;strokeWidth=1.2;" edge="1" parent="1" source="90_F330tsIY0Qzm9DFV0-14" target="90_F330tsIY0Qzm9DFV0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=0" vertex="1" connectable="0" parent="90_F330tsIY0Qzm9DFV0-17">
+          <mxGeometry x="-0.0708" y="2" relative="1" as="geometry">
+            <mxPoint x="7" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-14" value="是否已离职" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="1916" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="90_F330tsIY0Qzm9DFV0-16" value="PASS" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=0;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="661" y="2015" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
