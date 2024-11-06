@@ -2554,13 +2554,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-22" value="清理离职权限" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=0;strokeWidth=1.2;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1006.25" y="686" width="99" height="30" as="geometry" />
+          <mxGeometry x="1002" y="686" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.2;" edge="1" parent="1" source="1NhHMO1juJc_oCC-LTv5-23" target="1NhHMO1juJc_oCC-LTv5-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-23" value="权限信息获取" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=0;strokeWidth=1.2;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="851.25" y="686" width="99" height="30" as="geometry" />
+          <mxGeometry x="850" y="686" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.2;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="537.38" y="760" width="135" height="82" as="geometry" />
@@ -2585,13 +2585,13 @@
           <mxGeometry x="616" y="679" width="23.6" height="37" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-35" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 等线; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;②&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="807.0000244140625" y="669.0000244140625" width="46" height="44" as="geometry" />
+          <mxGeometry x="806.0000244140625" y="672.0000244140625" width="46" height="44" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 等线; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;③&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="950.0000244140625" y="669.0000244140625" width="46" height="44" as="geometry" />
+          <mxGeometry x="960.3000244140625" y="672.0000244140625" width="46" height="44" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 等线; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;④&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="1114.0000244140624" y="669.0000244140625" width="46" height="44" as="geometry" />
+          <mxGeometry x="1114.0000244140624" y="672.0000244140625" width="46" height="44" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 等线; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;⑤&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1208.0000244140624" y="556.0000244140625" width="46" height="44" as="geometry" />
@@ -2666,7 +2666,7 @@
           <mxGeometry x="1135.3" y="907" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-103" value="审计工单生成" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;fontSize=14;fontStyle=0;strokeWidth=1.2;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1160.25" y="686" width="99" height="30" as="geometry" />
+          <mxGeometry x="1155" y="686" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NhHMO1juJc_oCC-LTv5-109" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;员工信息&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1.2;" vertex="1" parent="1">
           <mxGeometry x="563.875" y="806" width="82" height="31" as="geometry" />
