@@ -3276,13 +3276,13 @@
         <mxCell id="mUV5ylIDvLSG0VIZIBYh-18" value="&lt;span&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;获取敏感数据&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="401" y="1520" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-32" value="离职权限回收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="mUV5ylIDvLSG0VIZIBYh-32" value="离职权限回收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="705" y="1568" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-34" value="转岗权限回收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="mUV5ylIDvLSG0VIZIBYh-34" value="转岗权限回收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="705" y="1616" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-35" value="特权滥用审计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="mUV5ylIDvLSG0VIZIBYh-35" value="特权滥用审计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="705" y="1664" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5muAbv2hYSPB0ZKaBKl8-8" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
@@ -3294,7 +3294,7 @@
         <mxCell id="5muAbv2hYSPB0ZKaBKl8-12" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="455.5" y="1658" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2CMKs2K-IJPpYyZ4STvo-7" value="权限授予不合理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="2CMKs2K-IJPpYyZ4STvo-7" value="权限授予不合理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="705" y="1711" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2CMKs2K-IJPpYyZ4STvo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5muAbv2hYSPB0ZKaBKl8-12" target="5muAbv2hYSPB0ZKaBKl8-8">
