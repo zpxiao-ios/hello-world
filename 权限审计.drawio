@@ -3291,7 +3291,7 @@
         <mxCell id="2CMKs2K-IJPpYyZ4STvo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5muAbv2hYSPB0ZKaBKl8-12" target="2CMKs2K-IJPpYyZ4STvo-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5muAbv2hYSPB0ZKaBKl8-12" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5muAbv2hYSPB0ZKaBKl8-12" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="455.5" y="1658" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2CMKs2K-IJPpYyZ4STvo-7" value="权限授予不合理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
