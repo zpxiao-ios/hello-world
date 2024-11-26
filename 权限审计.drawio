@@ -3258,7 +3258,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-5" value="与人员相关的数据泄露安全事件" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.4;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mUV5ylIDvLSG0VIZIBYh-5" value="内部人员" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.4;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="1587" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mUV5ylIDvLSG0VIZIBYh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1.4;fontSize=14;" edge="1" parent="1" source="mUV5ylIDvLSG0VIZIBYh-5" target="mUV5ylIDvLSG0VIZIBYh-14">
@@ -3277,7 +3277,7 @@
         <mxCell id="mUV5ylIDvLSG0VIZIBYh-15" value="重要业务系统" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.4;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="740.63" y="1587" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.4;fontSize=14;" edge="1" parent="1" source="mUV5ylIDvLSG0VIZIBYh-14" target="mUV5ylIDvLSG0VIZIBYh-23">
+        <mxCell id="mUV5ylIDvLSG0VIZIBYh-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.4;fontSize=14;" edge="1" parent="1" source="mUV5ylIDvLSG0VIZIBYh-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="645" y="1682" as="sourcePoint" />
             <mxPoint x="569.9949999999999" y="1690" as="targetPoint" />
@@ -3290,34 +3290,19 @@
           <mxGeometry x="405.5" y="1575" width="81.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mUV5ylIDvLSG0VIZIBYh-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="698.0999999999999" y="1683" width="304.81" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="417.59" y="1690" width="304.81" height="110" as="geometry" />
+          <mxGeometry x="751.9999999999999" y="1686" width="304.81" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mUV5ylIDvLSG0VIZIBYh-32" value="离职/转岗权限未回收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="717.72" y="1693" width="140" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-25" value="离职/转岗权限未回收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="437.21" y="1700" width="140" height="35" as="geometry" />
+          <mxGeometry x="771.62" y="1696" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="mUV5ylIDvLSG0VIZIBYh-33" value="僵尸权限未回收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="877.72" y="1743" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-27" value="僵尸权限未回收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="597.21" y="1750" width="100" height="35" as="geometry" />
+          <mxGeometry x="931.62" y="1746" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="mUV5ylIDvLSG0VIZIBYh-34" value="权限授予过大" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="737.72" y="1743" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-28" value="权限授予过大" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="457.21" y="1750" width="100" height="35" as="geometry" />
+          <mxGeometry x="791.62" y="1746" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="mUV5ylIDvLSG0VIZIBYh-35" value="特权滥用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="876.72" y="1693" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="mUV5ylIDvLSG0VIZIBYh-29" value="特权滥用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="596.21" y="1700" width="100" height="35" as="geometry" />
+          <mxGeometry x="930.62" y="1696" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
