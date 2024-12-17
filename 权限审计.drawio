@@ -3448,13 +3448,13 @@
         <mxCell id="HVWaCp4KQSshPGO8aXrj-44" value="加白机制" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;fontSize=12;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="986.51" y="1975" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HVWaCp4KQSshPGO8aXrj-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;自动触达提醒&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1.2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HVWaCp4KQSshPGO8aXrj-60" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;提醒机制&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1.2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="551.5" y="1830" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVWaCp4KQSshPGO8aXrj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.2;" edge="1" parent="1" source="HVWaCp4KQSshPGO8aXrj-52" target="HVWaCp4KQSshPGO8aXrj-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HVWaCp4KQSshPGO8aXrj-79" value="平台提醒机制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HVWaCp4KQSshPGO8aXrj-61">
+        <mxCell id="HVWaCp4KQSshPGO8aXrj-79" value="公众号触达" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HVWaCp4KQSshPGO8aXrj-61">
           <mxGeometry x="-0.8289" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
