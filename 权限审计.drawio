@@ -3360,6 +3360,9 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HVWaCp4KQSshPGO8aXrj-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="HVWaCp4KQSshPGO8aXrj-9" target="HVWaCp4KQSshPGO8aXrj-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HVWaCp4KQSshPGO8aXrj-9" value="安全运营" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;fontSize=14;flipH=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="1960" width="102" height="40" as="geometry" />
         </mxCell>
@@ -3455,6 +3458,9 @@
           <mxGeometry x="-0.8289" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HVWaCp4KQSshPGO8aXrj-87" value="问题收集、迭代跟进" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;fontSize=14;flipH=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1853" width="102" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
