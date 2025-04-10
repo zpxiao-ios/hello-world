@@ -3029,10 +3029,10 @@
         <mxCell id="Zl8JKpfRtplx8pSAm2GW-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;权限管控平台&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1.2;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1481" y="2537" width="138" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zl8JKpfRtplx8pSAm2GW-3" value="\" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=1.2;" vertex="1" parent="1">
+        <mxCell id="Zl8JKpfRtplx8pSAm2GW-3" value="\" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=1.2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1298" y="2578" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Zl8JKpfRtplx8pSAm2GW-4" value="权限看板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=1.2;" vertex="1" parent="1">
+        <mxCell id="Zl8JKpfRtplx8pSAm2GW-4" value="权限看板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=1.2;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1321" y="2580.5" width="74" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Zl8JKpfRtplx8pSAm2GW-5" value="高敏权限回收" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=13;strokeWidth=1.2;flipV=1;" vertex="1" parent="1">
@@ -3044,10 +3044,10 @@
         <mxCell id="Zl8JKpfRtplx8pSAm2GW-7" value="权限风险" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=13;strokeWidth=1.2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="1315.5" y="2697.5" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zl8JKpfRtplx8pSAm2GW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=1.2;" vertex="1" parent="1">
+        <mxCell id="Zl8JKpfRtplx8pSAm2GW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=1.2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1430.1" y="2578" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Zl8JKpfRtplx8pSAm2GW-9" value="用户中心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=1.2;" vertex="1" parent="1">
+        <mxCell id="Zl8JKpfRtplx8pSAm2GW-9" value="用户中心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=1.2;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1453.1" y="2580.5" width="74" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Zl8JKpfRtplx8pSAm2GW-10" value="权限查询" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=13;strokeWidth=1.2;" vertex="1" parent="1">
@@ -3059,10 +3059,10 @@
         <mxCell id="Zl8JKpfRtplx8pSAm2GW-12" value="流程中心" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=13;strokeWidth=1.2;" vertex="1" parent="1">
           <mxGeometry x="1447.6" y="2697.5" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zl8JKpfRtplx8pSAm2GW-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=1.2;" vertex="1" parent="1">
+        <mxCell id="Zl8JKpfRtplx8pSAm2GW-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=1.2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1562.1" y="2578" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Zl8JKpfRtplx8pSAm2GW-14" value="权限审计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=1.2;" vertex="1" parent="1">
+        <mxCell id="Zl8JKpfRtplx8pSAm2GW-14" value="权限审计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=1.2;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1585.1" y="2580.5" width="74" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Zl8JKpfRtplx8pSAm2GW-15" value="离职审计" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=13;strokeWidth=1.2;" vertex="1" parent="1">
@@ -3074,10 +3074,10 @@
         <mxCell id="Zl8JKpfRtplx8pSAm2GW-17" value="冗余审计" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=13;strokeWidth=1.2;" vertex="1" parent="1">
           <mxGeometry x="1579.6" y="2697.5" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zl8JKpfRtplx8pSAm2GW-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=1.2;" vertex="1" parent="1">
+        <mxCell id="Zl8JKpfRtplx8pSAm2GW-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=1.2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1694.1" y="2578" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Zl8JKpfRtplx8pSAm2GW-19" value="业务管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=1.2;" vertex="1" parent="1">
+        <mxCell id="Zl8JKpfRtplx8pSAm2GW-19" value="业务管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=1.2;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1717.1" y="2580.5" width="74" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Zl8JKpfRtplx8pSAm2GW-20" value="业务接入" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;labelBackgroundColor=none;fontSize=13;strokeWidth=1.2;" vertex="1" parent="1">
