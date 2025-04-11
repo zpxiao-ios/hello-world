@@ -4204,7 +4204,7 @@
           <mxGeometry x="617" y="1329" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ymW2suWO6smBB0SwPsqU-112" value="系统owner管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="617" y="1414" width="130" height="45" as="geometry" />
+          <mxGeometry x="410.1" y="1414" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ymW2suWO6smBB0SwPsqU-113" value="权限申请审批" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="206.1" y="1414" width="130" height="45" as="geometry" />
@@ -4212,8 +4212,8 @@
         <mxCell id="ymW2suWO6smBB0SwPsqU-114" value="业务系统接入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;flipH=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="412" y="1329" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ymW2suWO6smBB0SwPsqU-115" value="审计功能管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="412" y="1414" width="130" height="45" as="geometry" />
+        <mxCell id="ymW2suWO6smBB0SwPsqU-115" value="审计日志管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="1414" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ymW2suWO6smBB0SwPsqU-116" value="新权限系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;flipH=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="206.1" y="1520" width="130" height="35" as="geometry" />
